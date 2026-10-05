@@ -1,1 +1,3 @@
 # analyse-risque-marche
+Premier projet sur Python
+Objectif : appliquer les concepts de modélisation et de gestion des risques...
